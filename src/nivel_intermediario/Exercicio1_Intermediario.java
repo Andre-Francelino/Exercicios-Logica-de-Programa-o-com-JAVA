@@ -14,7 +14,7 @@ public class Exercicio1_Intermediario {
 
         double[] numeros = new double[10];
 
-        System.err.println("Digite os 10 números:");
+        System.out.println("Digite os 10 números:");
 
         for (int i = 0; i < numeros.length; i++) {
             numeros[i] = sc.nextDouble();
